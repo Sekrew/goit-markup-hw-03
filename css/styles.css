@@ -181,7 +181,7 @@ ul{
     width: 1600px;
     height: 600px;
     align-items: center;
-    
+    padding: 200px;
 }
 
 .main-text{
@@ -196,6 +196,7 @@ ul{
     margin-left: auto;
     text-align: center;
     margin-bottom: 30px;
+    margin-top: 0;
 }
 
 .button-order{
